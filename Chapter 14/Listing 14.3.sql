@@ -1,0 +1,1 @@
+ALTER LOGIN sa DISABLE ;
