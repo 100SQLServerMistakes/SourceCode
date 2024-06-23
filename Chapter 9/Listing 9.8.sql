@@ -1,0 +1,1 @@
+EXEC sp_msforeachtable 'ALTER INDEX ALL ON ? REBUILD' ;

@@ -1,0 +1,2 @@
+DBCC SHRINKFILE ('MarketingArchive' , 838) WITH WAIT_AT_LOW_PRIORITY ;
+GO
