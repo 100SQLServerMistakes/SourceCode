@@ -1,0 +1,1 @@
+DBCC IND ('MagicChoc', 'SalesOrderHeaders', 2) ;

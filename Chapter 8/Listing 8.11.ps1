@@ -1,0 +1,1 @@
+Start-DscConfiguration -Path 'C:\dsc\InstallSql' -Verbose

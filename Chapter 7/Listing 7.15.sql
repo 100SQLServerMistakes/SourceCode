@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM reporting.ImpressionAggregates WHERE CampaignID = @CampaignID
