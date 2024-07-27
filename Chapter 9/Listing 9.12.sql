@@ -1,3 +1,10 @@
+USE master ;
+GO
+
+BACKUP DATABASE MarketingArchive
+TO  DISK = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\MarketingArchive.bak' ;
+GO
+       
 ALTER DATABASE MarketingArchive SET SINGLE_USER WITH NO_WAIT ;
 GO
 
